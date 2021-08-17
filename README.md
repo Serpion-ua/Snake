@@ -1,6 +1,6 @@
 # Snake not-good-in-graphic game
 
-!!!THIS IS NOT READY TO PRODUCTION CODE!!!
+!!!THIS IS NOT READY TO PRODUCTION CODE. IT'S SOME KIND OF PROOF OF CONCEPT!!!
 
 Snake game core which allow you to setup game by placing objects like snake itself, apple to be eaten, walls and and even teleports!
 
